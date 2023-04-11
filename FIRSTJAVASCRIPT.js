@@ -1,4 +1,5 @@
-let firstName = 'Paul'
-let lastName = 'Ozioko'
-let fullName = firstName + lastName
-console.log(fullName)
+let firstName = "paul";
+let lastName = "ozioko";
+let fullName = `${firstName} ${lastName}`;
+console.log(fullName);
+
